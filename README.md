@@ -49,6 +49,6 @@
     <img src="https://avatars.githubusercontent.com/u/91969458?v=4" width="100" style="max-width: 100%;">
   </a>
  <a href="https://github.com/kimgwon">
-    <img src="https://avatars.githubusercontent.com/u/92065911?v=4" width="100" style="max-width: 100%;">
+    <img src="https://avatars.githubusercontent.com/u/108001842?v=4" width="100" style="max-width: 100%;">
   </a>
 </div>
